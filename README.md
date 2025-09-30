@@ -1,3 +1,4 @@
+![Logo](https://github.com/ozznixon/PCBoard14.7/blob/main/2025-09-30_17-26.png)
 ## PCBoard Pascal Clone
 
 This project is being built by Myself and my Pascal Students. The primary focus was to build a project that the class could experiment with.
